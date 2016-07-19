@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"CodeComplice",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"Sass",
+		"Schemr",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Themr",
+		"Transparency"
+	]
+}
